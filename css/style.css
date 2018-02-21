@@ -2,6 +2,14 @@
 body {
   color: black;
 }
+a{color: blue;
+
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+  background: blue;
+}
   p {
   color: black;
 }
