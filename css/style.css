@@ -14,10 +14,10 @@ a:hover{
   color: black;
 }
 h1 {
-  font-family: times roman serif;
+  font-family: "times roman serif";
 }
 h2 {
-  font-family: serif;
+  font-family: "serif";
 }
 
 h1{
